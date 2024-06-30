@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "untitled1",
+					"name" : "untitled24",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "untitled1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-untitled1-Debug-7ea637e1e4d208517f23.json",
-					"name" : "untitled1",
+					"id" : "untitled24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-untitled24-Debug-cf2833eb62d074aeb8dc.json",
+					"name" : "untitled24",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/DELL/CLionProjects/untitled1/cmake-build-debug",
-		"source" : "C:/Users/DELL/CLionProjects/untitled1"
+		"build" : "C:/Users/DELL/CLionProjects/untitled24/cmake-build-debug",
+		"source" : "C:/Users/DELL/CLionProjects/untitled24"
 	},
 	"version" : 
 	{

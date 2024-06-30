@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/DELL/CLionProjects/untitled1/cmake-build-debug"
+			"value" : "c:/Users/DELL/CLionProjects/untitled24/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/DELL/CLionProjects/untitled24/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/DELL/CLionProjects/untitled1"
+			"value" : "C:/Users/DELL/CLionProjects/untitled24"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/untitled1"
+			"value" : "C:/Program Files (x86)/untitled24"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "untitled1"
+			"value" : "untitled24"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1282,7 +1282,7 @@
 			"value" : "TRUE"
 		},
 		{
-			"name" : "untitled1_BINARY_DIR",
+			"name" : "untitled24_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1291,10 +1291,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/CLionProjects/untitled1/cmake-build-debug"
+			"value" : "C:/Users/DELL/CLionProjects/untitled24/cmake-build-debug"
 		},
 		{
-			"name" : "untitled1_IS_TOP_LEVEL",
+			"name" : "untitled24_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1306,7 +1306,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "untitled1_SOURCE_DIR",
+			"name" : "untitled24_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/DELL/CLionProjects/untitled1"
+			"value" : "C:/Users/DELL/CLionProjects/untitled24"
 		}
 	],
 	"kind" : "cache",
